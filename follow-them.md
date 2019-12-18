@@ -6,5 +6,6 @@ You feel like something bad about to happen call the cops or keep following
 
 [Call Cops](call.md)
 
+[Follow](werid.md)
 
-[werid](werid.md)
+[Back](home.md)
