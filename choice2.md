@@ -4,4 +4,6 @@ You decided to head home after that mess,You feel safe now
 
 This all ends here your life is normal now :)
 
+[But wait...](wait.md)
+
 [Back](home.md)
