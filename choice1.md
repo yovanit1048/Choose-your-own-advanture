@@ -9,3 +9,5 @@ Choose to follow them or head Home
 [Follow Them](follow-them.md)
 
 [Head back Home](back.md)
+
+[Back](home.md)
