@@ -8,6 +8,6 @@ Choose to follow them or head Home
 
 [Follow Them](follow-them.md)
 
-[Head back Home](back.md)
+[Head back Home](back2.md)
 
 [Back](home.md)
