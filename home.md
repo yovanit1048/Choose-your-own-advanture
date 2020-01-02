@@ -1,9 +1,8 @@
 
 ![school](https://www.voicesofyouth.org/sites/default/files/images/2019-03/school.jpg)
+After a long day of school your freinds tell you to hang out for a fun time or they say you can stay home and be a lonely kid.
 
-School finish and your freinds tell you to hang out or you can stay home and not hang out with them.
-
-[Hang out ](choice1.md) 
+[Hang out](choice1.md) 
 
 
 [Stay home](choice2.md)
